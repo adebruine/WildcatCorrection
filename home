@@ -1,0 +1,28 @@
+<! DOCTYPE HTML>
+<html>
+    
+<head>
+    <link rel="stylesheet" type="text/css" href="wc2_home.css">
+
+    <title>Wildcat Connect 2.0</title>    
+</head>
+    
+<body>
+    <div class="navigation">
+    <nav>
+    <ul>
+        <li id="button"><a href=#search>Search</a></li>
+        <li id="button"><a href=#events>Events</a></li>
+        <li id="button"><a href=#orgs>Organizations</a></li>
+        <li style="float: left"><a href=#home>Wildcat Connection</a></li>
+    </ul>
+    </nav>
+    </div>
+    
+<div class="buttons" style="top: 200px;">
+    <button id="button-big">Find a club!</button>
+    </div>
+    
+</body>
+
+</html>
